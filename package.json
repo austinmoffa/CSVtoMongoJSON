@@ -1,0 +1,19 @@
+{
+  "name": "mongoconvert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "csvtojson": "^1.0.3",
+    "fs": "0.0.1-security",
+    "require": "^2.4.20",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
