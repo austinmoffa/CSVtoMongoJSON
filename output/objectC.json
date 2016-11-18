@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"a9f7e97965d6cf799a529102"},"att_b1":"test1b","objectA_id":[{"$oid":"693a9fdd4c2fd0700968fba0"},{"$oid":"9d607a663f3e9b0a90c3c8d4"}]},{"_id":{"$oid":"9ab62b5ef34a985438bfdf7e"},"att_b1":"test2b","objectA_id":{"$oid":"693a9fdd4c2fd0700968fba0"}},{"_id":{"$oid":"0a3d72134fb3d6c024db4c51"},"att_b1":"test3b","objectA_id":{"$oid":"9d607a663f3e9b0a90c3c8d4"}}]
